@@ -13,7 +13,7 @@ pastTime=0
 currentTime=0
 staticWindowSize=300
 counter=0
-folder= 'training_data\letter_C'
+folder= 'training_data\letter_H'
 
 
 class Functionality:
